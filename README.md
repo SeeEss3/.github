@@ -1,9 +1,7 @@
 ### .github
 
 # Center for Smart Landscapes (CSL2)
-
 ## Two octothorps
-
 ### Three octothorps
 
 #### Four octothorps
